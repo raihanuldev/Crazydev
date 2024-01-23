@@ -1,0 +1,22 @@
+{
+  "name": "crazydev",
+  "version": "1.0.0",
+  "description": "This is my Frist Package. iam very excited for this. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniqueCoderRihan/Crazydev.git"
+  },
+  "keywords": [
+    "crazydev"
+  ],
+  "author": "Raihanul Islam sharif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UniqueCoderRihan/Crazydev/issues"
+  },
+  "homepage": "https://github.com/UniqueCoderRihan/Crazydev#readme"
+}
